@@ -1,0 +1,10 @@
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\bin\Release\PFAST Service.exe.config
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\bin\Release\PFAST Service.exe
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\bin\Release\PFAST Service.pdb
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\bin\Release\MySql.Data.dll
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST_Service.PFASTService.resources
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST_Service.ProjectInstaller.resources
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST Service.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST Service.exe
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST Service.pdb
+C:\Users\Dave\Documents\Visual Studio 11\Projects\PFAST Service\PFAST Service\obj\Release\PFAST Service.csprojResolveAssemblyReference.cache

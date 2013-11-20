@@ -21,7 +21,6 @@ namespace PFAST_Service
         public PFASTService()
         {
             InitializeComponent();
-
         }
 
         protected override void OnStart(string[] args)
@@ -34,8 +33,15 @@ namespace PFAST_Service
 
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
-            WriteToLogFile();
-            dbc.Query();
+
+            //stoping the timer temporarily while the query is done
+            timer.Enabled = false;
+
+            //query job input table for work
+            dbc.QueryForNewJobs();
+
+            //re-enable the timer
+            timer.Enabled = true;
         }
         
 
